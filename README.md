@@ -1,4 +1,5 @@
 # hotmail_spotify_checker
+proxyless
 hotmail_spotify, how it works??
 first login to emails, search for "spotify" in search bar, check for sender like "no-reply@spotify.com
 search the email body look for "Thank you for being a Premium subscriber" and all other premium indicator
